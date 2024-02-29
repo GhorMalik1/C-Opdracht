@@ -1,0 +1,14 @@
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\bin\Debug\net8.0\dictionaries.exe
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\bin\Debug\net8.0\dictionaries.deps.json
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\bin\Debug\net8.0\dictionaries.runtimeconfig.json
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\bin\Debug\net8.0\dictionaries.dll
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\bin\Debug\net8.0\dictionaries.pdb
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\dictionaries.AssemblyInfoInputs.cache
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\dictionaries.AssemblyInfo.cs
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\dictionaries.dll
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\refint\dictionaries.dll
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\dictionaries.pdb
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\dictionaries.genruntimeconfig.cache
+C:\Users\aon_d\Desktop\opdrachten en huiswerk map\Leerjaar 2\periode 3\C#\dictionaries\dictionaries\obj\Debug\net8.0\ref\dictionaries.dll
